@@ -1,6 +1,6 @@
 ls# Misiones
 
-1. En curso desde CETEQ
+1. En curso desde CETEQ III
 2. Crear la liga de la justicia
 3. Buscar nuevos miembros para la liga
 5. Investigar los trabajos del Joker
