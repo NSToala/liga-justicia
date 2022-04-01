@@ -1,4 +1,4 @@
-ls# Misiones
+# Misiones
 
 1. En curso desde CETEQ II
 2. Crear la liga de la justicia
